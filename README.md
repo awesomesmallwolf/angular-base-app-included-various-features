@@ -1,22 +1,6 @@
-<p align="center">
-  <h3 align="center">Angular Example App</h3>
+# Angular base app included various features
 
-  <p align="center">
-    Example app with Angular 13 + Angular CLI + i18n + Graphql
-    <br>
-    <br>
-    :clap::clap::tada::tada::tada::tada::clap::clap:
-    <br>
-    <br>
-    Base project made with much :heart:. Contains CRUD, advanced patterns, generated library, and much more!
-    <br>
-    <br>
-    <img src="https://media.giphy.com/media/BIql9p3KQWYdjq4Sxe/giphy.gif" alt="Demo example"/>
-    <br>
-    <br>
-    <a href="https://ismaestro.github.io/angular-example-app/">DEMO HERE</a>
-  </p>
-</p>
+Base project made with much :heart:. Contains CRUD, advanced patterns, generated library, and much more!
 
 ## Setup
 
@@ -34,8 +18,7 @@ npm start
 
 ## Backend
 
-This project is using a real app deployed in heroku, which you can see
-[here](https://github.com/Ismaestro/nestjs-example-app). The server is using NestJS, Prisma,
+This project is using a real app deployed in heroku. The server is using NestJS, Prisma,
 Postgres and GraphQL. Please check it out and feel free also to contribute or give me your thoughts.
 
 ## What's included
@@ -74,16 +57,11 @@ This project is using the official internationalization. You can navigate throug
 you want to translate the messages you can use this awesome tool,
 [Tiny Translator](https://martinroob.github.io/tiny-translator/en/#/translate).
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the issue guidelines and search for existing and
-closed issues. If your problem or idea is not addressed yet,
-[please open a new issue](https://github.com/Ismaestro/angular-example-app/issues/new).
-
 ## Creators
 
-**Ismael Ramos**
+**Small Wolf, Ismael Ramos and the others**
 
+- <https://github.com/fredcarterwolf>
 - <https://github.com/ismaestro>
 
 ## Thanks
@@ -92,10 +70,3 @@ Thanks to all contributors and their support.
 
 If you have an idea or you want to do something, tell me or just do it! I'm always happy to hear
 your feedback!
-
-## Copyright and license
-
-Code and documentation copyright 2021 the authors. Code released under the
-[MIT License](https://github.com/Ismaestro/angular-example-app/blob/master/LICENSE).
-
-Enjoy :metal:
